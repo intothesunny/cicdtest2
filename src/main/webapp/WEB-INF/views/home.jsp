@@ -10,6 +10,7 @@
 	<h2> home.jsp </h2>
 	<h3><a href="/welcome">환영합니다</a></h3>
 	<h3>test</h3>
+	<h3>test2</h3>
 	<!--   HomeController.hi() 
 				홍길동 <-- 
 			==> welcome.jsp
